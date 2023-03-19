@@ -1,0 +1,5 @@
+// const path = require("path");
+// const filepath = path.join("user", "ravi", "file.txt");
+// console.log(filepath);
+// const a = 9;
+console.log(99);

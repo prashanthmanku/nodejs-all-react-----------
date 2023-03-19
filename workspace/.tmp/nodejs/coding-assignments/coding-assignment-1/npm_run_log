@@ -1,0 +1,156 @@
+  console.log
+    server is Running at http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:23:15)
+
+  console.log
+    hasStatusPropertie
+
+      at ../app.js:113:15
+
+  console.log
+    hasPriorityProperty
+
+      at ../app.js:129:15
+
+  console.log
+    haspriorityAndStatus
+
+      at ../app.js:46:15
+
+  console.log
+    hascategoryAndStatus
+
+      at ../app.js:69:15
+
+  console.log
+    hasCategoryAndPriority
+
+      at ../app.js:91:15
+
+  console.log
+    hasCategory
+
+      at ../app.js:145:15
+
+  console.log
+    2021/00/02
+
+      at ../app.js:188:11
+
+  console.log
+    hasStatusPropertie
+
+      at ../app.js:113:15
+
+  console.log
+    hasPriorityProperty
+
+      at ../app.js:129:15
+
+  console.log
+    hasCategory
+
+      at ../app.js:145:15
+
+  console.log
+    TO DO MEDIUM WORK 2021-9-22
+
+      at ../app.js:203:11
+
+  console.log
+    true
+
+      at ../app.js:204:11
+
+  console.log
+    akdjb MEDIUM WORK 2021-9-22
+
+      at ../app.js:203:11
+
+  console.log
+    false
+
+      at ../app.js:204:11
+
+  console.log
+    TO DO zdvdb WORK 2021-9-22
+
+      at ../app.js:203:11
+
+  console.log
+    false
+
+      at ../app.js:204:11
+
+  console.log
+    TO DO MEDIUM dgergs 2021-9-22
+
+      at ../app.js:203:11
+
+  console.log
+    false
+
+      at ../app.js:204:11
+
+  console.log
+    TO DO MEDIUM HOME djbsiu
+
+      at ../app.js:203:11
+
+  console.log
+    false
+
+      at ../app.js:204:11
+
+  console.log
+    status
+
+      at ../app.js:272:17
+
+  console.log
+    priority
+
+      at ../app.js:288:15
+
+  console.log
+    todo
+
+      at ../app.js:306:15
+
+  console.log
+    WORK
+
+      at ../app.js:316:15
+
+  console.log
+    2021-10-18T00:00:00.000Z
+
+      at ../app.js:333:15
+
+  console.log
+    true
+
+      at ../app.js:335:15
+
+  console.log
+    Invalid Date
+
+      at ../app.js:333:15
+
+  console.log
+    false
+
+      at ../app.js:335:15
+
+  console.log
+    priority
+
+      at ../app.js:288:15
+
+  console.log
+    2021/??/AS
+
+      at ../app.js:316:15
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

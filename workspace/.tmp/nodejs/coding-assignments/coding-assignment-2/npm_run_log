@@ -1,0 +1,188 @@
+  console.log
+    server is Running At http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:21:15)
+
+  console.log
+    success
+
+      at ../app.js:129:11
+
+  console.log
+    {
+      user_id: 4,
+      name: 'James Cameron',
+      username: 'JimCameron',
+      password: '$2b$10$QmutsDpGkFNxaOTHAGij1./0C1rWj/xQVtlqOAhN4gL6UZ0YNxtyC',
+      gender: 'male'
+    }
+
+      at ../app.js:131:11
+
+  console.log
+    [
+      {
+        tweet_id: 1,
+        tweet: 'Looking forward to a unique interaction with youngsters, their parents and teachers.',
+        user_id: 1,
+        date_time: '2021-04-07 14:50:15'
+      },
+      {
+        tweet_id: 2,
+        tweet: 'On the way to the rally in Kanyakumari, caught a glimpse of the majestic Vivekananda Rock Memorial and the grand Thiruvalluvar Statue.',
+        user_id: 1,
+        date_time: '2021-04-07 14:50:15'
+      },
+      {
+        tweet_id: 7,
+        tweet: 'Oel ngati kameie, China! We are re excited to bring Avatar back to your big screens this weekend.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15'
+      },
+      {
+        tweet_id: 8,
+        tweet: 'Oel ngati kameie, Avatar fans.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15'
+      }
+    ]
+
+      at ../app.js:150:11
+
+  console.log
+    [
+      {
+        tweet_id: 1,
+        tweet: 'Looking forward to a unique interaction with youngsters, their parents and teachers.',
+        user_id: 1,
+        date_time: '2021-04-07 14:50:15'
+      },
+      {
+        tweet_id: 2,
+        tweet: 'On the way to the rally in Kanyakumari, caught a glimpse of the majestic Vivekananda Rock Memorial and the grand Thiruvalluvar Statue.',
+        user_id: 1,
+        date_time: '2021-04-07 14:50:15'
+      },
+      {
+        tweet_id: 7,
+        tweet: 'Oel ngati kameie, China! We are re excited to bring Avatar back to your big screens this weekend.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15'
+      },
+      {
+        tweet_id: 8,
+        tweet: 'Oel ngati kameie, Avatar fans.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15'
+      }
+    ]
+
+      at ../app.js:152:11
+
+  console.log
+    api4
+
+      at ../app.js:161:11
+
+  console.log
+    [ { replies: 1 }, { replies: 1 } ]
+
+      at ../app.js:338:11
+
+  console.log
+    [ { likes: 2 }, { likes: 3 } ]
+
+      at ../app.js:350:11
+
+  console.log
+    [
+      {
+        tweet_id: 7,
+        tweet: 'Oel ngati kameie, China! We are re excited to bring Avatar back to your big screens this weekend.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15',
+        likes: 2
+      },
+      {
+        tweet_id: 8,
+        tweet: 'Oel ngati kameie, Avatar fans.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15',
+        likes: 2
+      }
+    ]
+
+      at ../app.js:367:11
+
+  console.log
+    [
+      { like_id: 9, tweet_id: 4, user_id: 1 },
+      { like_id: 10, tweet_id: 4, user_id: 4 },
+      { like_id: 11, tweet_id: 4, user_id: 3 }
+    ]
+
+      at ../app.js:370:11
+
+  console.log
+    { replies: 3 }
+
+      at ../app.js:220:13
+
+  console.log
+    { likes: 3 }
+
+      at ../app.js:227:13
+
+  console.log
+    undefined
+
+      at ../app.js:262:13
+
+  console.log
+    { username: 'narendramodi' }
+
+      at ../app.js:262:13
+
+  console.log
+    [
+      { name: 'Narendra Modi', reply: 'When you see it..' },
+      {
+        name: 'Joe Biden',
+        reply: 'A lot of people make the mistake of just hopping around on jobs a whole lot...'
+      }
+    ]
+
+      at ../app.js:307:15
+
+  console.log
+    [
+      { name: 'Narendra Modi', reply: 'When you see it..' },
+      {
+        name: 'Joe Biden',
+        reply: 'A lot of people make the mistake of just hopping around on jobs a whole lot...'
+      }
+    ]
+
+      at ../app.js:313:15
+
+  console.log
+    12
+
+      at ../app.js:384:11
+
+  console.log
+    undefined
+
+      at ../app.js:400:11
+
+  console.log
+    {
+      tweet_id: 7,
+      tweet: 'Oel ngati kameie, China! We are re excited to bring Avatar back to your big screens this weekend.',
+      user_id: 4,
+      date_time: '2021-04-07 14:50:15'
+    }
+
+      at ../app.js:400:11
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

@@ -1,0 +1,26 @@
+  console.log
+    Server is Running at http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:38:15)
+
+  console.log
+    51
+
+      at ../app.js:80:11
+
+  console.log
+    {
+      movie_id: 51,
+      director_id: 4,
+      movie_name: 'The Lord of the Rings: The Fellowship of the Ring',
+      lead_actor: 'Elijah Wood'
+    }
+
+      at ../app.js:88:11
+
+  console.log
+    { directorId: 4, movieName: 'Anonymous', leadActor: 'Rahul' }
+
+      at ../app.js:64:11
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

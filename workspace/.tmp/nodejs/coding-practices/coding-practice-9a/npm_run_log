@@ -1,0 +1,16 @@
+  console.log
+    sever is running At http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:18:15)
+
+  console.log
+    3
+
+      at ../app.js:39:13
+
+  console.log
+    8
+
+      at ../app.js:39:13
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

@@ -1,0 +1,6 @@
+  console.log
+    5-5-2021
+
+      at getDateAfterDays (../index.js:8:11)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

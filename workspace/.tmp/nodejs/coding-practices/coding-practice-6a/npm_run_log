@@ -1,0 +1,31 @@
+  console.log
+    /home/workspace/.tmp/nodejs/coding-practices/coding-practice-6a/covid19India.db
+
+      at Object.<anonymous> (../app.js:13:9)
+
+  console.log
+    server Running is Running At http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:22:15)
+
+  console.log
+    { state_name: 'Andaman and Nicobar Islands' }
+
+      at ../app.js:200:11
+
+  console.log
+    prakasam
+
+      at ../app.js:75:11
+
+  console.log
+    { districtId: 765 }
+
+      at ../app.js:85:11
+
+  console.log
+    2
+
+      at ../app.js:115:11
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

@@ -1,0 +1,6 @@
+  console.log
+    This is a Function
+
+      at statement (../exportFunction.js:2:11)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

@@ -1,0 +1,96 @@
+  console.log
+    server is Running at http://localhost:3001/
+
+      at Server.<anonymous> (../app.js:19:15)
+
+  console.log
+    l33333
+
+      at ../app.js:65:15
+
+  console.log
+    TO DO
+
+      at ../app.js:66:15
+
+  console.log
+    l22222
+
+      at ../app.js:56:15
+
+  console.log
+    l11111
+
+      at ../app.js:43:15
+
+  console.log
+    IN PROGRESS
+
+      at ../app.js:44:15
+
+  console.log
+    HIGH
+
+      at ../app.js:45:15
+
+  console.log
+    l44444444444
+
+      at ../app.js:75:15
+
+  console.log
+    6 Watch Movie MEDIUM TO DO
+
+      at ../app.js:104:11
+
+  console.log
+    { stmt: Statement { stmt: undefined }, lastID: 6, changes: 1 }
+
+      at ../app.js:115:11
+
+  console.log
+    IN PROGRESS
+
+      at ../app.js:126:11
+
+  console.log
+    c1: true
+
+      at ../app.js:128:11
+
+  console.log
+    1 status
+
+      at ../app.js:131:15
+
+  console.log
+    undefined
+
+      at ../app.js:126:11
+
+  console.log
+    c1: false
+
+      at ../app.js:128:11
+
+  console.log
+    2 priority
+
+      at ../app.js:142:15
+
+  console.log
+    undefined
+
+      at ../app.js:126:11
+
+  console.log
+    c1: false
+
+      at ../app.js:128:11
+
+  console.log
+    3 todo
+
+      at ../app.js:154:15
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

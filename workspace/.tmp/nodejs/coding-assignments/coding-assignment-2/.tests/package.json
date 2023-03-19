@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "preinstall": "pnpm install ~/.ccbp/ccbp-jest-reporter"
+  },
+  "dependencies": {
+    "ccbp-jest-reporter": "file:~/.ccbp/ccbp-jest-reporter",
+    "supertest": "6.1.3"
+  }
+}
